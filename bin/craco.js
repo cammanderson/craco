@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-
 const spawn = require("cross-spawn");
 
 const args = process.argv.slice(2);
